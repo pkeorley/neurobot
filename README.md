@@ -1,7 +1,13 @@
 # Instructions
-- Install the `disnake` library using the command:
+- Install all the necessary libraries for the bot to work correctly
 ```bash
-pip install --upgrade disnake
+pip install -r requirements.txt
+```
+- Insert the bot token in the `config.py` file
+```python
+data = dict(
+    token="Here the bot token"
+)
 ```
 - Launch the bot using the command:
 ```bash
