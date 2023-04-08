@@ -1,9 +1,9 @@
-# neurobot
-- Install the Disnake library using the command:
+# Instructions
+- Install the `disnake` library using the command:
 ```bash
 pip install --upgrade disnake
 ```
 - Launch the bot using the command:
-```python
+```bash
 python bot.py
 ```
